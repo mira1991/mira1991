@@ -1,4 +1,4 @@
-<img class="img-responsive" src="assets/happy-excited-minion.gif">
+<img class="img-responsive" src="assets/happy-excited-minion.gif" style="width:100%">
 
 
 ## Hi there , I'm Mohamed MIRA 👋
